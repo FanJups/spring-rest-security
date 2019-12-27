@@ -13,6 +13,10 @@ Then :
 
 https://www.baeldung.com/persistence-with-spring-series
 
+Then :
+
+https://www.baeldung.com/spring-exceptions
+
 If needed :
 
 https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/
